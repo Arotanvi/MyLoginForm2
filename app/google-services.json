@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "413626433577",
+    "firebase_url": "https://myloginform2.firebaseio.com",
+    "project_id": "myloginform2",
+    "storage_bucket": "myloginform2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413626433577:android:be4f3630609564bf",
+        "android_client_info": {
+          "package_name": "com.codingblocks.myloginform2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413626433577-n9gukuo3id9lscsg3df0hbs4r19p2gs8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingblocks.myloginform2",
+            "certificate_hash": "d0014b8dfa8705f47e35f0d97ace1bbf3c36a8e6"
+          }
+        },
+        {
+          "client_id": "413626433577-e8q5gih0j46432jge5bl3a877in5ppk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbBwQjlyX1K3d3pwW0f7H_7W48-DFvNBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413626433577-e8q5gih0j46432jge5bl3a877in5ppk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

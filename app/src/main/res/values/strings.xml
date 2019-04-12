@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyLoginForm2</string>
+    <string name="facebook_app_id">2254842938122761</string>
+    <string name="fb_login_protocol_scheme">fb2254842938122761</string>
+    <string name="consumer_key">iI7BsWXNEKlnjMnb5DP6dlOrR</string>
+    <string name="consumer_secret">HqZxldQvAAfRatpCuHvZQIdj6MfykJISOjPZIwbbmaCYC13ClB</string>
+</resources>
